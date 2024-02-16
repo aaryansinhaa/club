@@ -21,13 +21,13 @@ To get started with this project, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/your-flutter-project.git
+   git clone https://github.com/aaryansinhaa/club.git
    ```
 
 2. **Navigate to the project directory**:
 
    ```bash
-   cd your-flutter-project
+   cd club
    ```
 
 3. **Run the app**:
