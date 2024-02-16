@@ -1,7 +1,6 @@
-# club
+# An App for the Android Development Club
 
-A new Flutter project.
-
+App for the Android Development Club 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
